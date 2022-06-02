@@ -2,6 +2,7 @@
 ### Note: I have had a button like this sitting on my desk for 2years now and it still works just fine, it only gets used once a month or so.
 
 #
+![Staples Easy Button](/images/button.jpg)
 This project is for putting a NRF24L01 inside a staples easy button to use as a remote low power button of some sort, maybe a doorbell?
 
 The 2*AAA that the easy button comes with should lass a few years at least.
