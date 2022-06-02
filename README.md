@@ -47,3 +47,5 @@ I Chose A0 and A1 for CE/CSN so that all wiring was on the same side of the boar
 |MISO           | D12          |
 |3.3v           | VCC/BATT +   |
 |GND            | GND/BATT -   |
+
+![Overall](/images/overall1.jpg)
